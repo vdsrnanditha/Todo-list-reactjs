@@ -3,6 +3,7 @@ React ToDo List app is a simple yet powerful task management tool, allowing user
 
 # Installation
 Clone the repository: git clone https://github.com/vdsrnanditha/Todo-list-reactjs.git
+
 Install dependencies: npm install
 # Usage
 Start the development server: npm start
